@@ -5,6 +5,6 @@ The Collatz conjecture is a conjecture in mathematics that concerns sequences de
 
 <img src = "GIFs/CollatzFormula.png" width = 400>
 
-## Visualisation
+## Output
 
 <img src = "GIFs/CollatzConjectureVideo.gif">
