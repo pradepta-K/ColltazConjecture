@@ -7,4 +7,4 @@ The Collatz conjecture is a conjecture in mathematics that concerns sequences de
 
 ## Output
 
-<img src = "GIFs/CollatzConjectureVideo.gif">
+![Animation](GIFs/CollatzConjectureVideo.gif)
